@@ -31,5 +31,5 @@ The following can be added to a project that needs artifacts distributed to this
       <url>https://github.com/ibissource/mvn-repo/raw/master/releases</url>
     </repository>
     
-This e.g. https://github.com/ibissource/parent because it needs the ibis-servicedispatcher.
+This is e.g. in https://github.com/ibissource/parent because it needs the ibis-servicedispatcher.
 
