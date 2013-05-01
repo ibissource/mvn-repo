@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.ibissource</groupId>
-  <artifactId>ibis-websphere-mq</artifactId>
+  <artifactId>ibis-webspheremq</artifactId>
   <version>1.0</version>
   <versioning>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20130501122322</lastUpdated>
+    <lastUpdated>20130501192213</lastUpdated>
   </versioning>
 </metadata>
