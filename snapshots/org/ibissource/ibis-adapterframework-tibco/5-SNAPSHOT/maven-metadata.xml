@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.ibissource</groupId>
-  <artifactId>ibis-adapterframework-ifsa</artifactId>
+  <artifactId>ibis-adapterframework-tibco</artifactId>
   <version>5-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130501.161100</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20130501.153955</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130501161100</lastUpdated>
+    <lastUpdated>20130501153955</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>5-20130501.161100-3</value>
-        <updated>20130501161100</updated>
+        <value>5-20130501.153955-1</value>
+        <updated>20130501153955</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5-20130501.161100-3</value>
-        <updated>20130501161100</updated>
+        <value>5-20130501.153955-1</value>
+        <updated>20130501153955</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
