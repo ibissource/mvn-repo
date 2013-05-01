@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ibissource</groupId>
+  <artifactId>ibis-adapterframework-sap</artifactId>
+  <versioning>
+    <versions>
+      <version>5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130501155130</lastUpdated>
+  </versioning>
+</metadata>

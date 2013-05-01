@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.ibissource</groupId>
+  <artifactId>ibis-adapterframework-sap</artifactId>
+  <version>5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130501.155130</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20130501155130</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>5-20130501.155130-2</value>
+        <updated>20130501155130</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>5-20130501.155130-2</value>
+        <updated>20130501155130</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
