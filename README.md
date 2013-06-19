@@ -6,7 +6,7 @@ For as long we don't have an actual maven repository to upload our artifacts too
 The idea is to configure the distribution repository to a checkout of this. Like so:
 ```xml
     <properties>
-       <github.maven.repository>file:///Users/michiel/github/ibissource/mvn-repo</github.maven.repository>
+       <github.maven.repository>file:../mvn-repo</github.maven.repository>
     </properties>
 
     ...
