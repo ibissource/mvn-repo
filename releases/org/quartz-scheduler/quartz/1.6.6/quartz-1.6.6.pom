@@ -3,5 +3,5 @@
   <groupId>org.quartz-scheduler</groupId>
   <artifactId>quartz</artifactId>
   <version>1.6.6</version>
-  <name>quartz-1.6.6</name>
+  <name>quartz-1.6.6.jar</name>
 </project>
