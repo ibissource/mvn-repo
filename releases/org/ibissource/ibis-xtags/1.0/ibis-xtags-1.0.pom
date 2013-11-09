@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.ibissource</groupId>
+  <artifactId>ibis-xtags</artifactId>
+  <version>1.0</version>
+  <name>IbisXtags.jar</name>
+  <description>
+    Purpose of this project is to create a xtags version that will ignore the
+    javax.xml.transform.TransformerFactory system property (because of the JAXP
+    mechanism when calling TransformerFactory.newInstance()) which was set by older
+    Ibis versions to org.apache.xalan.processor.TransformerFactoryImpl. When a newer
+    Ibis without this class (because it's using IbisXalan) is running in the same
+    JVM it will cause xtags to try to load this non present class.
+  </description>
+</project>
