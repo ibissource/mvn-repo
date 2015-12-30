@@ -3,11 +3,12 @@
   <groupId>org.ibissource</groupId>
   <artifactId>ibis-adapterframework-larva</artifactId>
   <versioning>
-    <release>6.0-RC6</release>
+    <release>6.0</release>
     <versions>
       <version>6.0-RC5</version>
       <version>6.0-RC6</version>
+      <version>6.0</version>
     </versions>
-    <lastUpdated>20151221123006</lastUpdated>
+    <lastUpdated>20151230125617</lastUpdated>
   </versioning>
 </metadata>
