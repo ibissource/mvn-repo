@@ -3,7 +3,7 @@
   <groupId>org.ibissource</groupId>
   <artifactId>ibis-adapterframework-core</artifactId>
   <versioning>
-    <release>6.0</release>
+    <release>6.1-RC1</release>
     <versions>
       <version>5.5</version>
       <version>5.6</version>
@@ -11,7 +11,8 @@
       <version>6.0-RC5</version>
       <version>6.0-RC6</version>
       <version>6.0</version>
+      <version>6.1-RC1</version>
     </versions>
-    <lastUpdated>20151230125226</lastUpdated>
+    <lastUpdated>20160302134729</lastUpdated>
   </versioning>
 </metadata>
