@@ -3,7 +3,7 @@
   <groupId>org.ibissource</groupId>
   <artifactId>ibis-adapterframework-tibco</artifactId>
   <versioning>
-    <release>6.1-RC2</release>
+    <release>6.1-RC3</release>
     <versions>
       <version>5.5</version>
       <version>5.6</version>
@@ -13,7 +13,8 @@
       <version>6.0</version>
       <version>6.1-RC1</version>
       <version>6.1-RC2</version>
+      <version>6.1-RC3</version>
     </versions>
-    <lastUpdated>20160324142540</lastUpdated>
+    <lastUpdated>20160420101504</lastUpdated>
   </versioning>
 </metadata>
