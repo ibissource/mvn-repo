@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.ibissource</groupId>
   <artifactId>ibis-ladybug</artifactId>
-  <version>2.0.0.3677</version>
+  <version>2.0.0.3678</version>
   <name>Ibis Ladybug Test Tool</name>
   <description>
     Debug and Test Tool.
