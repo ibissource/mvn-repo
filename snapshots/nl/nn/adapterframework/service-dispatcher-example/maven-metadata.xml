@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>nl.nn.adapterframework</groupId>
-  <artifactId>service-dispatcher</artifactId>
+  <artifactId>service-dispatcher-example</artifactId>
   <versioning>
     <versions>
       <version>1.4-SNAPSHOT</version>

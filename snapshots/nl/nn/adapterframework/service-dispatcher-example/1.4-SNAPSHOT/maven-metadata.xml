@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>nl.nn.adapterframework</groupId>
-  <artifactId>service-dispatcher</artifactId>
+  <artifactId>service-dispatcher-example</artifactId>
   <version>1.4-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <timestamp>20170717.165928</timestamp>
-      <buildNumber>3</buildNumber>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <lastUpdated>20170717165928</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4-20170717.165928-3</value>
+        <value>1.4-20170717.165928-2</value>
         <updated>20170717165928</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4-20170717.165928-3</value>
+        <value>1.4-20170717.165928-2</value>
         <updated>20170717165928</updated>
       </snapshotVersion>
     </snapshotVersions>
