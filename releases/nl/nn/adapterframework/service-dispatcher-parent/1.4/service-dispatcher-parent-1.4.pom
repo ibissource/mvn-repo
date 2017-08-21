@@ -1,0 +1,53 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>nl.nn.adapterframework</groupId>
+  <artifactId>service-dispatcher-parent</artifactId>
+  <packaging>pom</packaging>
+  <version>1.4</version>
+
+  <modules>
+    <module>servicedispatcher</module>
+    <module>example</module>
+  </modules>
+
+  <scm>
+    <connection>scm:git:git://github.com/ibissource/ibis-servicedispatcher.git</connection>
+    <developerConnection>scm:git:https://github.com/ibissource/ibis-servicedispatcher.git</developerConnection>
+    <url>https://github.com/ibissource/ibis-servicedispatcher</url>
+    <tag>v1.4</tag>
+  </scm>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <ibissource.maven.repository.file>file:/C:/Data/Git/mvn-repo</ibissource.maven.repository.file>
+  </properties>
+
+
+  <build>
+    <defaultGoal>install</defaultGoal>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.4</version>
+        <configuration>
+          <branchName>${project.version}</branchName>
+          <tagNameFormat>v@{project.version}</tagNameFormat>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+  <distributionManagement>
+    <repository>
+      <id>repo</id>
+      <url>${ibissource.maven.repository.file}/releases</url>
+    </repository>
+    <snapshotRepository>
+      <id>snapshot-repo</id>
+      <url>${ibissource.maven.repository.file}/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
+
+</project>
