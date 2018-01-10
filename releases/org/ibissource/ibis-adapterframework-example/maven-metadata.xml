@@ -3,7 +3,7 @@
   <groupId>org.ibissource</groupId>
   <artifactId>ibis-adapterframework-example</artifactId>
   <versioning>
-    <release>7.0-RC1</release>
+    <release>7.0-RC2</release>
     <versions>
       <version>5.5</version>
       <version>5.6</version>
@@ -19,7 +19,8 @@
       <version>7.0-B2</version>
       <version>7.0-B3</version>
       <version>7.0-RC1</version>
+      <version>7.0-RC2</version>
     </versions>
-    <lastUpdated>20171221134529</lastUpdated>
+    <lastUpdated>20180110160457</lastUpdated>
   </versioning>
 </metadata>
