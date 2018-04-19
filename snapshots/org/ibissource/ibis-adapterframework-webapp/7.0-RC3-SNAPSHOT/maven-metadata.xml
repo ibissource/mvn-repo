@@ -5,20 +5,20 @@
   <version>7.0-RC3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180412.131631</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20180419.133015</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
-    <lastUpdated>20180412131631</lastUpdated>
+    <lastUpdated>20180419133015</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>war</extension>
-        <value>7.0-RC3-20180412.131631-5</value>
-        <updated>20180412131631</updated>
+        <value>7.0-RC3-20180419.133015-6</value>
+        <updated>20180419133015</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>7.0-RC3-20180412.131631-5</value>
-        <updated>20180412131631</updated>
+        <value>7.0-RC3-20180419.133015-6</value>
+        <updated>20180419133015</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
