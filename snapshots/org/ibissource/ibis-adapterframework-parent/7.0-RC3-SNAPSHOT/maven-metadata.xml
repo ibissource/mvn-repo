@@ -5,15 +5,15 @@
   <version>7.0-RC3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180419.132944</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20180426.101617</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
-    <lastUpdated>20180419132944</lastUpdated>
+    <lastUpdated>20180426101617</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>7.0-RC3-20180419.132944-7</value>
-        <updated>20180419132944</updated>
+        <value>7.0-RC3-20180426.101617-8</value>
+        <updated>20180426101617</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
