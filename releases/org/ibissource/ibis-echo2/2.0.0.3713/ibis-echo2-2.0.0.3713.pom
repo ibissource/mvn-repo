@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.ibissource</groupId>
+  <artifactId>ibis-echo2</artifactId>
+  <version>2.0.0.3713</version>
+  <name>Ibis Echo2</name>
+  <description>
+    Echo2 with some tweaks and bundled together with Echo2_Extras,
+    Echo2_FileTransfer and echopointng. Following tweaks were added:
+    - Workaround for not being able to download in IE.
+    - Updated nextapp.echo2.webrender.util.DomUtil to select the right
+      javax.xml.transform.TransformerFactory.
+    - Prevent java.io.NotSerializableException when the application wants to
+      persist sessions.
+  </description>
+</project>
