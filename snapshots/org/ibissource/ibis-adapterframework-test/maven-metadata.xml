@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ibissource</groupId>
+  <artifactId>ibis-adapterframework-test</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0-RC3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180524153150</lastUpdated>
+  </versioning>
+</metadata>
